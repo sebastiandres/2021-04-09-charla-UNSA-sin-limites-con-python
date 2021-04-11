@@ -51,10 +51,11 @@ div.plan-container {
 
 /* something big and obvious again just to outline
    that this file is actually loaded */
-
+/*
 div.cell.code_cell.rendered, div.input_area {
     border-width: 10px;
 }
+*/
 
 /* this is only to check that rise.css properly gets
  * ignored when quitting reveal mode */
